@@ -15,6 +15,10 @@
 
 6) Breadboard and wires
 
+![Circuit](magicballs_bb.jpg)
+
+
+
 ## Software
 
 1) [Microstacknode IOT Python3 library](https://github.com/microstack-IoT/python3-microstacknode)
