@@ -1,12 +1,12 @@
 #Magic Balls 
  
-![Circuit](ball.jpg)
+![ball](ball.JPG)
 
 The ball will report its position using GPS.
 
-![Circuit](gpsreadings.jpg)
+![GPS results](gpsreadings.JPG)
 
-![Circuit](gpsplot.jpg)
+![Map](gpsplot.JPG)
  
 ###Developers:
 ####Ollie;
